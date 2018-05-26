@@ -1,0 +1,17 @@
+c:\users\amanbe\source\repos\AzureSearch\AzureSearchServices\bin\Debug\netstandard2.0\AzureSearchServices.deps.json
+c:\users\amanbe\source\repos\AzureSearch\AzureSearchServices\bin\Debug\netstandard2.0\AzureSearchServices.dll
+c:\users\amanbe\source\repos\AzureSearch\AzureSearchServices\bin\Debug\netstandard2.0\AzureSearchServices.pdb
+c:\users\amanbe\source\repos\AzureSearch\AzureSearchServices\obj\Debug\netstandard2.0\AzureSearchServices.csproj.CoreCompileInputs.cache
+c:\users\amanbe\source\repos\AzureSearch\AzureSearchServices\obj\Debug\netstandard2.0\AzureSearchServices.AssemblyInfoInputs.cache
+c:\users\amanbe\source\repos\AzureSearch\AzureSearchServices\obj\Debug\netstandard2.0\AzureSearchServices.AssemblyInfo.cs
+c:\users\amanbe\source\repos\AzureSearch\AzureSearchServices\obj\Debug\netstandard2.0\AzureSearchServices.dll
+c:\users\amanbe\source\repos\AzureSearch\AzureSearchServices\obj\Debug\netstandard2.0\AzureSearchServices.pdb
+C:\Users\amanbe\source\repos\AzureSearch\AzureSearchServices\obj\Debug\netstandard2.0\AzureSearchServices.csprojResolveAssemblyReference.cache
+C:\Users\amanbe\Desktop\GIT\Azure Search\AzureSearchServices\bin\Debug\netstandard2.0\AzureSearchServices.deps.json
+C:\Users\amanbe\Desktop\GIT\Azure Search\AzureSearchServices\bin\Debug\netstandard2.0\AzureSearchServices.dll
+C:\Users\amanbe\Desktop\GIT\Azure Search\AzureSearchServices\bin\Debug\netstandard2.0\AzureSearchServices.pdb
+C:\Users\amanbe\Desktop\GIT\Azure Search\AzureSearchServices\obj\Debug\netstandard2.0\AzureSearchServices.csproj.CoreCompileInputs.cache
+C:\Users\amanbe\Desktop\GIT\Azure Search\AzureSearchServices\obj\Debug\netstandard2.0\AzureSearchServices.AssemblyInfoInputs.cache
+C:\Users\amanbe\Desktop\GIT\Azure Search\AzureSearchServices\obj\Debug\netstandard2.0\AzureSearchServices.AssemblyInfo.cs
+C:\Users\amanbe\Desktop\GIT\Azure Search\AzureSearchServices\obj\Debug\netstandard2.0\AzureSearchServices.dll
+C:\Users\amanbe\Desktop\GIT\Azure Search\AzureSearchServices\obj\Debug\netstandard2.0\AzureSearchServices.pdb
